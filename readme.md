@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔥 About Me:
 ## Welcome to my GitHub profile!<br>I'm Fardeen Karim, a passionate and experienced Full Stack Developer with expertise in a wide range of technologies. <br><br>I specialize in web development, utilizing my skills in<br>HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, PHP, Laravel, Java, and WordPress.
 
 ## 🌐 Socials:

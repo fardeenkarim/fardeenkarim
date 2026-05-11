@@ -2,9 +2,9 @@
 
 **Systems Architect | Founder @ Web Makeer**
 
-I am a **Systems Architect** and **Vibe Coder** specializing in the high-level orchestration of scalable digital products. I design the logical blueprints and structural foundations that allow AI-driven development to move at the speed of thought.
+I am a **Systems Architect** and **Vibe Coder** specializing in the high-level orchestration of scalable digital products. I design the logical blueprints and structural foundations that allow AI  driven development to move at the speed of thought.
 
-My focus is on **Technical Strategy**—bridging the gap between complex business requirements and robust, modular implementation.
+My focus is on **Technical Strategy** bridging the gap between complex business requirements and robust, modular implementation.
 
 ---
 

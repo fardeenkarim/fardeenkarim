@@ -1,6 +1,6 @@
 # ⚡ MD Fardeen Karim
 
-**Systems Architect | Technical Founder @ Web Makeer**
+**Systems Architect | Founder @ Web Makeer**
 
 I am a **Systems Architect** and **Vibe Coder** specializing in the high-level orchestration of scalable digital products. I design the logical blueprints and structural foundations that allow AI-driven development to move at the speed of thought.
 

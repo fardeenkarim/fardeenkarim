@@ -1,8 +1,6 @@
-<div align="center">
-  <h1>⚡ Fardeen Karim</h1>
-  <h3>Founder @ Web Makeer | Systems Architect | AI-Native Vibe Coder</h3>
-  <p><i>"Syntax is a commodity. Logic, architecture, and infrastructure are the product."</i></p>
-</div>
+# ⚡ Fardeen Karim
+### Founder @ Web Makeer | Systems Architect | AI-Native Vibe Coder
+*"Syntax is a commodity. Logic, architecture, and infrastructure are the product."*
 
 ---
 
@@ -20,6 +18,7 @@ From monolithic PHP backends to modular Next.js and Flutter frontends, I design 
 
 ### 🤖 The Brain: Orchestration & AI
 *My command center for rapid development and system generation.*
+<br>
 ![Jarvis](https://img.shields.io/badge/Jarvis_OpenClaw-FFD700?style=for-the-badge&logo=openai&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-55A6FF?style=for-the-badge&logo=cursor&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F81?style=for-the-badge&logo=heart&logoColor=white) 
@@ -27,6 +26,7 @@ From monolithic PHP backends to modular Next.js and Flutter frontends, I design 
 
 ### 🏗️ The Engine: Core Logic & Frameworks
 *The foundational technologies powering the systems I design.*
+<br>
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -35,6 +35,7 @@ From monolithic PHP backends to modular Next.js and Flutter frontends, I design 
 
 ### 🌐 The Bare Metal: Infrastructure & Deployment
 *How I keep SaaS platforms and agency builds secure and scalable.*
+<br>
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -44,9 +45,7 @@ From monolithic PHP backends to modular Next.js and Flutter frontends, I design 
 
 ## 📡 Connect & Collaborate
 
-<div align="center">
-  <a href="https://linkedin.com/in/fardeenkarimm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/fardeenkarimm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/fardeenkarimm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@FardeenKarim"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeenkarimm)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fardeenkarimm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fardeenkarimm)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FardeenKarim)

@@ -50,9 +50,3 @@ From monolithic PHP backends to modular Next.js and Flutter frontends, I design 
   <a href="https://instagram.com/fardeenkarimm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@FardeenKarim"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=fardeenkarim&icon=0&color=8" alt="Profile Views">
-</div>

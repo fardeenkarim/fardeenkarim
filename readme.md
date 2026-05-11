@@ -1,20 +1,20 @@
 # ⚡ MD Fardeen Karim
 
-**Systems Architect | Technical Founder @ Web Makeer | EEE @ BRAC University**
+**Systems Architect | Technical Founder @ Web Makeer**
 
-I am a **Vibe Coder** and **Systems Architect** focused on the intersection of engineering logic and AI-driven development. I don't just build apps; I design the structural blueprints and algorithmic flows that power them.
+I am a **Systems Architect** and **Vibe Coder** specializing in the high-level orchestration of scalable digital products. I design the logical blueprints and structural foundations that allow AI-driven development to move at the speed of thought.
 
-My workflow is centered around **AI Orchestration**—utilizing high-level logic to command complex technical stacks.
+My focus is on **Technical Strategy**—bridging the gap between complex business requirements and robust, modular implementation.
 
 ---
 
 ## 🛠 The Vibe & Tech Stack:
 
-### **Orchestration & Design**
+### **Orchestration & AI Design**
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F81?style=for-the-badge&logo=heart&logoColor=white) 
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-55A6FF?style=for-the-badge&logo=cursor&logoColor=white)
-![Jarvis AI](https://img.shields.io/badge/Jarvis_Automation-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![Jarvis](https://img.shields.io/badge/Jarvis_Automation-FFD700?style=for-the-badge&logo=openai&logoColor=black)
 
 ### **Systems & Infrastructure**
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -24,7 +24,7 @@ My workflow is centered around **AI Orchestration**—utilizing high-level logic
 
 ---
 
-## 🌐 Digital Presence:
+## 🌐 Connect & Collaborate:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeenkarimm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fardeenkarimm)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fardeenkarimm)
@@ -32,7 +32,7 @@ My workflow is centered around **AI Orchestration**—utilizing high-level logic
 
 ---
 
-### 🧠 Mindset:
-> "Engineering is about solving problems with the most efficient tools available. I design the logic; the 'Vibe' handles the implementation."
+### 🧠 The Logic:
+> "Syntax is a variable; logic is the constant. I design the systems that make the code inevitable."
 
 ![](https://visitcount.itsvg.in/api?id=fardeenkarim&icon=0&color=8)
